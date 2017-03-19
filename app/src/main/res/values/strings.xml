@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LongDistanceSmoothScrollSample</string>
+
+    <string name="list_item_text_template">Position %1$d</string>
+</resources>
